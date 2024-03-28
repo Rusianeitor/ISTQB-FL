@@ -1,0 +1,29 @@
+Fundamentos de pruebas
+
+Errores comunes:
+-Consisten en ejecutar el software y comprobar resultados
+ Pueden dividirse en:
+    Pruebas dinámicas: Ejecutar el sw
+    Pruebas estáticas: Revisión de documentos de requerimientos o código fuente. Sonar
+ Pasos: 
+    Planificación, Análisis, Diseño, Implementación y ejecución y Generación del reporte
+ 
+-Verificar que el sw cumpla los requerimientos
+ Validar que las especificaciones cumplan las expectativas del usuario
+    Verificación: ¿Construímos bien el sw de acuerdo a los requerimientos?
+    Validación: ¿Construímos el sw adecuado resolviendo el problema?
+
+1. Proceso de Pruebas
+ Ciclo de Validación
+    Planificación, Análisis, Diseño, Implementación y ejecución y Generación del reporte
+ Estático y Dinámico
+ Planificación (Antes, durante y después de la ejecución de las pruebas)
+    Gestionar, Planear, Controlar, Progreso y Estado y Finalizar
+ Preparación: Elegir que pruebas hacer, seleccionar condiciones de prueba y crear casos de prueba
+ Evaluación: Evaluar el sw y criterios de finalización
+ Productos de sw y trabajo: Se ponen a prueba tbn los requisitos y documentos relacionados
+
+2. Objetivos Generales
+ Los productos satisfacen los requisitos
+ Los productos son adecuados
+ Detectar defectos

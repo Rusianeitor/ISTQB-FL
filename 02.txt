@@ -1,0 +1,50 @@
+Pruebas y depuración
+
+Objetivos y características de pruebas de sw (9)
+1. Evaluar los productos de trabajo estén correctos
+    Grabación de reu
+    Reporte de progresos
+    Código fuente
+    Programa terminado
+2. Verificar requerimientos satisfechos
+    Cumplan requerimientos técnicos, ley
+3. Validar objeto de prueba
+    ¿Todas las especificaciones están resultas?
+    ¿Resuelven el problema?
+4. Generar confianza
+5. Prevenir defectos
+    Un defecto es la consecuencia de un error
+6. Encontrar fallas y defectos
+    Error: Persona
+    Defecto: Software, Desperfecto que puede causar que el sistema falle
+    Falla: Sistema, Visibilidad del defecto
+    No siempre un defecto genera una falla
+7. Entregar información para toma de decisiones
+8. Reducir nivel de riesgo
+    Reducir en vez de Mitigar
+    Perfiles operativos: Simula escenarios
+9. Cumplir normales legales o regulatorias y estándares
+
+Depuración:
+Puede hacerlo un tester al inicio del ciclo de pruebas
+Pruebas unitarias: Dev prueba su código
+Pruebas de confirmación: Realizado por tester independiente para confirmar que la falla fue reparada
+Pruebas de regresión: Para evitar afectación en otras partes del Programa
+Encontrar, analizar y remover la causa de una falla
+
+Por qué probar?
+Reducir el riesgo de ocurrencias de fallas durante la operación del sistema
+Riesgo: Algo que no ocurrió pero puede ocurrir
+Para cumplir requerimientos legales
+
+Gestión de calidad:
+Actividades que dirigen y controlan a una organización con respecto a la calidad
+-Aseguramiento de la calidad de sw:
+    Cumplimiento de los procesos adecuado para generar productos de trabajos de mayor calidad para prevenir defectos
+    Plan de cómo se harán las cosas
+    PARA correcta ejecución de prueba
+-Control de calidad:
+    Actividades de prueba
+    Proceso reactivo de encontrar defectos en productos elaborados antes de que salgan al mercado
+    PARA niveles apropiados de calidad
+
