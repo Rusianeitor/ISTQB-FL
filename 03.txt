@@ -1,0 +1,24 @@
+Error, defecto y falla
+
+Error: Persona introduce defecto en código, documento o sistema
+Defecto, falta o bug: Ocasiona falla en el sistema
+Falla: Explosión del sistema, síntoma del defecto, puede ser de origen ambiental
+Efecto: Situación ocasionada por la falla
+
+Razones
+-Trabajo bajo presión por tiempo
+-Falibilidad humana
+-Falta de experiencia / poca cualificación
+-Falla de comunicación
+-Complejidad
+-Malentendidos con interfaces
+
+Falsos positivos: 
+    Error que no existe
+    Forma en la que se ejecutó la prueba
+    Incorrecta definición de las condiciones de prueba
+Falsos negativos:
+    No detecta defectos que debió identificar 
+    Omisión de cosas
+
+Oráculo de prueba: Fuente para determinar resultados esperados y compararlos con los resultados obtenidos
