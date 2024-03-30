@@ -1,0 +1,82 @@
+El proceso y actividades de prueba
+
+1. Planificación
+    Asegurar cumplimiento de expectativas
+    Definir objetivos
+    Identificar riesgos
+    Realizar estrategia
+    Establece base de prueba
+    "Puede ser ajustado por el Monitoreo y control"
+
+2. Monitoreo y control
+    Los resultados son lo esperado?
+    Sigue el progreso del plan para realizar acciones correctivas
+        Monitoreo: Percatarnos del problema, valida que se haga lo del plan
+        Control: Tomar acción correctiva
+    Evaluar criterios de salida(DoD): Determinar cobertura de la prueba
+        Lista de condiciones para considerar la tarea como concluida
+        Comprobar los resultados y registros con los criterios de cobertura (cuanto se ha probado)
+        Evaluar el nivel de calidad del sistema
+        Determinar si necesitan más pruebas
+    El avance de la prueba se comunica mediante informes para tomar decisiones    
+
+3. Análisis de pruebas ¿Qué probar?
+    Analizar bases de prueba para definir que se puede probar -> Transformar bases en condiciones de pruebas
+        Especificaciones de requisitos
+        Información de diseño e implementación
+        Implementación del componente o sistema
+        Informes de análisis de riesgos
+    Evaluar la base de prueba para Identificar defectos
+        Omisiones, inexactitudes
+    Identificación de las prestaciones
+    Definir y priorizar condiciones de pruebas
+    Garantizar la trazabilidad entre la base de pruebas y condiciones asociadas
+    BASE DE PRUEBA - CONDICIÓN
+    
+    Caja negra: Probar funcionamiento sin conocer estructura interna
+    Caja blanca: Probar como está hecho
+    Valida si los requisitos satisfacen las necesidades
+
+4. Diseño ¿Cómo probar?
+    Especificación de los casos de prueba requeridos para probar una característica
+    Transforma condiciones de prueba en escenarios (AN)
+    Escenario no tiene valores concretos para datos de entrada o salida
+    Escenario puede hacer referencia a varios casos de uso
+
+    Actividades:
+    Diseñar y priorizar casos y conjuntos de prueba
+    Identificar los datos de pruba necesarios
+    Diseñar el entorno de prueba e identificar la estructura y herramientas
+    Capturar la trazabilidad bidireccional
+    BASE DE PRUEBA - CONDICIÓN - CASO DE PRUEBA
+
+5. Implementación
+    Actividades:
+    Desarrollar y priorizar procedimientos de prueba (Script)
+    Crear suites de pruebas a partir de los procedimientos
+    Organizar los suites en un cronograma de ejecución
+    Crear entorno de prueba (Framework)
+    Preparación de datos de prueba
+    Verificación y actualización de la trazabilidad
+    BASE DE PRUEBA - CONDICIÓN - CASO DE PRUEBA - PROCEDIMIENTOS - SUITES
+
+6. Ejecución
+    Actividades:
+    Registrar identificadores, versiones de objetos y herramientas
+    Ejecutar pruebas manual o auto 
+    Comparar resultados obtenidos vs esperados
+    Analizar anomalías
+    Informar sobre defectos
+    Registrar resultados
+    Repetir pruebas
+    Verificación y actualización de la trazabilidad
+
+7. Compleción
+    Evaluación de criterios de salida e informes
+    Actividades:
+        Comprobar productos entregados
+        Cerrar informes de incidencias
+        Documentar
+        Finalizar y archivas
+        Entregar productos a mantenimientos
+        Analizar lecciones aprendidas

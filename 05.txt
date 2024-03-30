@@ -1,0 +1,48 @@
+El proceso de pruebas
+
+1. Planeación y control
+    Establecer plan de pruebas
+    Monitorear actividades durante todo el ciclo de pruebas (Progreso vs Plan), plasmado en reportes
+
+2. Análisis y diseño
+    Verificar factibilidad de la prueba, tiempos y recursos
+    Viabilidad técnica
+    Diseño que satisface necesidades (Casos de prueba de alto nivel)
+      AN: Lógicos
+      BN: Concretos
+    Data de pruebas e infraestructura
+
+3. Implementación y ejecución
+    Definen casos de prueba de bajo nivel en base a la data de prueba disponible 
+    Definen criterios de aceptación
+
+4. Evaluación de resultados y creación de reportes
+    Construido vs diseñado
+    Verificar los reportes para informar resultados
+    Nivel de cobertura satisfecho? Tipos de prueba
+
+5. Cierre de actividades
+    Verificar necesidades satisfechas
+    Informar resultados
+    Identificar mejoras
+
+6. Monitoreo y control
+    Monitoreo: Percatarnos del problema
+    Control: Tomar acción correctiva
+
+
+Proceso de pruebas según el contexto
+    Proceso varía según tipo de producto
+    Analiza riesgos, complejidad, modelo de desarrollo, metodologías, políticas y recursos
+
+Actividades de pruebas
+    Pueden ser secuenciales, iterativas y superponerse
+    Planificación, Monitoreo y control, Análisis, Diseño, Implementación, Ejecución , Compleción
+    Productos de trabajo: En cada actividad se generan documentos para controlar
+    Base de prueba: 
+        Se usa para el Análisis y diseño
+        Requerimiento y plan
+        Evolucionan en escenario o condiciones de prueba
+    Condiciones de prueba: Eventos verificables sobre los que se diseñan los casos de prueba
+    Casos de pruebas: Definen que valores de entrada se deben probar y como evaluar las salidas
+    Trazabilidad: Desde base de prueba hasta resultados

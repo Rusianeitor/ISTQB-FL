@@ -1,0 +1,18 @@
+Siete principios de las pruebas
+
+1. Las pruebas muestran la presencia de errores, no su ausencia
+    Reduce la posibilidad de que defectos no detectados permanezcan en el código
+2. Las pruebas exhaustivas son imposibles
+    No es factible
+    Técnicas de prueba
+3. La prueba temprana ahorra tiempo y dinero
+    Pruebas en desarrollo se debe hacer en la fase de Requisitos y Diseño
+4. Los defectos se agrupan
+    Ley de Pareto: 80% de consecuencias por 20% de causas
+5. Cuidado con la paradoja del pesticida
+    Si aplicas las mismas pruebas siempre, el conjunto de casos de pruebas no encontrarán defectos nuevos
+6. La prueba depende del contexto
+    Las pruebas e deben enfocar en riesgo vs impacto
+    Riesgo: Probabilidad de ocurrencia
+    Impacto: Consecuencias de los riesgos
+7. La ausencia de errores es una falacia
